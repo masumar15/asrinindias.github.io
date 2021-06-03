@@ -1,0 +1,22 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color:#e2edff;
+    
+
+}
+body {
+min-height: 2000px;
+}
+
+.tbl2{
+    padding-top: 100px;
+    background-color: #f3f4f5;
+}
+
+section{
+    padding-bottom:50rem;
+}
+
+h3 {
+    padding-top: 50%;
+}
